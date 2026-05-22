@@ -116,13 +116,7 @@ HTML • Tailwind CSS
 
 ---
 
-## 🤖 CodeMateAI
-AI-powered online learning and coding platform project.
 
-### 🔧 Tech Used
-React.js • MERN Stack
-
----
 
 # 🏆 Certifications
 
