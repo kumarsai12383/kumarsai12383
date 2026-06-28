@@ -153,7 +153,7 @@ HTML • Tailwind CSS
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="https://kumarsai.dev">Portfolio</a> •
+<a href="https://kumarsai.me">Portfolio</a> •
 <a href="https://www.linkedin.com/in/kumarsai-makthala/">LinkedIn</a> •
 <a href="mailto:kumarsai05072005@gmail.com">Email</a>
 </p>
