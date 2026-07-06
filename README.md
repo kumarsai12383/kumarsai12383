@@ -65,6 +65,7 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
@@ -73,6 +74,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -92,28 +95,48 @@
 
 # 📌 Featured Projects
 
-## 🚀 Smart Habit Tracker
-Modern React-based habit tracking application with responsive UI and reusable components.
+## 💰 ExpenseFlow
+A modern full-stack expense tracking application with secure authentication, transaction management, and interactive financial analytics.
 
 ### 🔧 Tech Used
-React.js • Tailwind CSS • Vite
+React.js • Tailwind CSS • Supabase • PostgreSQL • React Router • Chart.js
+
+### ✨ Features
+- Google OAuth & Email Authentication
+- Income & Expense CRUD Operations
+- Interactive Analytics Dashboard
+- Protected Routes
+- Responsive UI
 
 ---
 
-## 🍔 FoodiExpress
-Responsive food delivery frontend website with modern UI design.
+## 🎬 MovieHub
+A React-based movie discovery application that allows users to browse trending, popular, and upcoming movies with advanced search and filtering.
 
 ### 🔧 Tech Used
-HTML • CSS • JavaScript • Bootstrap
+React.js • Tailwind CSS • React Router DOM • Vite • TMDB API
+
+### ✨ Features
+- TMDB API Integration
+- Dynamic Routing
+- Movie Search & Filtering
+- Responsive Design
+- Reusable Components
 
 ---
 
-## 📊 Admin Dashboard UI
-Clean and responsive admin dashboard built using Tailwind CSS.
+## 🛒 E-Commerce Store
+A responsive e-commerce frontend application featuring product browsing, category filtering, shopping cart management, and a modern user interface.
 
 ### 🔧 Tech Used
-HTML • Tailwind CSS
+React.js • JavaScript • Tailwind CSS • Context API
 
+### ✨ Features
+- Product Listing
+- Shopping Cart
+- Category Filtering
+- State Management
+- Responsive Design
 ---
 
 
